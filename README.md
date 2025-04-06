@@ -2,7 +2,7 @@
 
 A modern, interactive chess game built with React. This two-player app emphasizes both functionality and user experience, offering features like customizable themes, move history, and intuitive undo/redo controls.
 
-## 🚀 Features
+## Features
 
 - Two-player chess gameplay
 - Customizable board color themes
@@ -11,13 +11,13 @@ A modern, interactive chess game built with React. This two-player app emphasize
 - Editable player names
 - Clean and responsive UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - JavaScript
 - HTML/CSS
 
-## 📦 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
