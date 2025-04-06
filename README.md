@@ -23,3 +23,5 @@ A modern, interactive chess game built with React. This two-player app emphasize
    ```bash
    git clone https://github.com/your-username/chess-app.git
    cd chess-app
+   
+<img width="834" alt="Screen Shot 2025-04-06 at 4 24 09 PM" src="https://github.com/user-attachments/assets/a39a6cbe-aaa2-4718-855e-d4c5c17346bd" />
